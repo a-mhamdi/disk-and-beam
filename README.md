@@ -13,15 +13,7 @@ The system is composed of the following components:
 - a Raspberry Pi that serves as an acquisition board.
 
 ### Software
-`LabVIEW` is used to implement the fuzzy controller.
-
-![FSD](imgs/fsd-1.png)
-![FSD](imgs/fsd-2.png)
-![FSD](imgs/fsd-3.png)
-
-![Front Panel](imgs/front-panel.png)
-
-![Block Diagram](imgs/block-diagram.png)
+- [LabVIEW](github/a-mhamdi/disk_and_beam/main/tree/LabVIEW)
 
 ## Acknowledgment
 The present project is inspired by the following reference: [https://github.com/hugomarquez/ball_and_beam](https://github.com/hugomarquez/ball_and_beam)
