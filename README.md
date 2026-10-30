@@ -13,7 +13,7 @@ The system is composed of the following components:
 - a Raspberry Pi that serves as an acquisition board.
 
 ### Software
-- [LabVIEW](github/a-mhamdi/disk_and_beam/main/tree/LabVIEW)
+- [LabVIEW](github/a-mhamdi/disk_and_beam/tree/main/LabVIEW)
 
 ## Acknowledgment
 The present project is inspired by the following reference: [https://github.com/hugomarquez/ball_and_beam](https://github.com/hugomarquez/ball_and_beam)
